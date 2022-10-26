@@ -1,4 +1,4 @@
-![bpce_group_logo](https://github.com/BPCE/.github/blob/main/profile/RVB_GROUPE_BPCE.jpg)
+![bpce_group_logo](https://github.com/BPCE/.github/blob/main/profile/asset/RVB_GROUPE_BPCE.jpg)
 
 ## A propos du Groupe BPCE
 
